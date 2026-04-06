@@ -1,17 +1,21 @@
 # 📊 Power BI Analytics and Dashboard 
 Engagement and Scoping  ·  Power Query · DAX Measures · KPI Cards · Slicers · Formatting · Benchmarking · Dashboard Design · Key Findings
 
-A comprehensive, end-to-end guide to building an interactive Power BI dashboard.
+A comprehensive, end-to-end guide to building an interactive Power BI 
+dashboard using publicly available breast cancer screening data from the 
+Australian Institute of Health and Welfare (AIHW).
 
-**Live Guide:** http://habtamubizuayehu.com/Power-BI-Analytics-and-Dashboard/  
-**Full Guide (HTML):** https://habtamubizuayehu.github.io/Power-BI-Analytics-and-Dashboard/power_BI.html 
-**Download Power BI File (.pbix):** https://github.com/HabtamuBizuayehu/Power-BI-Analytics-and-Dashboard/raw/main/Power%20BI%20Dashboard.pbix
-**View on GitHub:** https://github.com/HabtamuBizuayehu/Power-BI-Analytics-and-Dashboard/blob/main/power_BI.html  
+🌐 **Live Guide:** http://habtamubizuayehu.com/Power-BI-Analytics-and-Dashboard/
 
-> The Power BI `.pbix` file can be opened in Power BI Desktop (free) on any 
+📖 **Full Guide (HTML):** https://habtamubizuayehu.github.io/Power-BI-Analytics-and-Dashboard/power_BI.html
+
+💾 **Download Power BI File (.pbix):** https://github.com/HabtamuBizuayehu/Power-BI-Analytics-and-Dashboard/raw/main/Power%20BI%20Dashboard.pbix
+
+🗂️ **View on GitHub:** https://github.com/HabtamuBizuayehu/Power-BI-Analytics-and-Dashboard/blob/main/power_BI.html
+
+> The `.pbix` file can be opened in Power BI Desktop (free) on any 
 > computer. All data, measures, and visuals are fully embedded and 
 > ready to explore interactively.
----
 
 ## 🚀 Overview
 
