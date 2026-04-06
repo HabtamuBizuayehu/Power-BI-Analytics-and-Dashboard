@@ -1,9 +1,7 @@
 # 📊 Power BI Analytics and Dashboard 
 Engagement and Scoping  ·  Power Query · DAX Measures · KPI Cards · Slicers · Formatting · Benchmarking · Dashboard Design · Key Findings
 
-A comprehensive, end-to-end guide to building an interactive Power BI 
-dashboard using publicly available breast cancer screening data from the 
-Australian Institute of Health and Welfare (AIHW).
+A comprehensive, end-to-end guide to building an interactive Power BI dashboard.
 
 🌐 **Live Guide:** http://habtamubizuayehu.com/Power-BI-Analytics-and-Dashboard/
 
